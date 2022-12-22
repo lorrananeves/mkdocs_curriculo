@@ -10,7 +10,7 @@ Utilizando-se da linguagem de programação JavaScript em conjunto com o framewo
 Participação em cerimoniais de produto, como daily meetings, alinhamentos, refining e retrospectivas. 
 Interação com outras áreas da empresa para coleta de dados e elaboração de requisitos.<br>
 
-Jovem Aprendiz - Auxiliar Administrativo <br>
+Auxiliar Administrativo <br>
 Patrus Transportes Urgentes Ltda - Hortolândia, SP <br>
 Março de 2021 até Março de 2022 <br>
 Atendimento de colaboradores (telefone, whatsApp, presencial). <br>
